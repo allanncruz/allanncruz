@@ -32,6 +32,7 @@ Desenvolvedor com mais de 10 anos de experiência em frontend, especializado em 
 
 ## 📊 GitHub Status
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allanncruz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanncruz&layout=compact&theme=radical)
 
 ---
