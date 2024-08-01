@@ -27,6 +27,9 @@ Desenvolvedor com mais de 10 anos de experiência em frontend, especializado em 
 ![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+
 
 ---
 
