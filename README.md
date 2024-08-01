@@ -1,4 +1,4 @@
-# Olá, eu sou Allan Cruz 👋
+# Olá, 👋
 
 Desenvolvedor com mais de 10 anos de experiência em frontend, especializado em React, TypeScript, Angular e criação de temas para wordpress. Tenho um forte foco em UI/UX design e sigo rigorosamente as regras do ESLint e os princípios de Clean Code em meus projetos.
 
